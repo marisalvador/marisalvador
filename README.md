@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou a @marisalvador
-- 👀 Eu estou querendo virar uma Designer Unicórnio
-- 🌱 Eu estou aprendendo o básico de front no momento
+- 👀 Eu estou aprendendo Banco de Dados
+- 🌱 Quero criar Glossários interativos para tradutores, para auxiliar nas traduções.
 
 <!---
 marisalvador/marisalvador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
